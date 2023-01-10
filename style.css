@@ -1,0 +1,32 @@
+h1{
+    font-size: 50px;
+    font-family: 'Comfortaa', cursive;
+}
+.name_highlight{
+    color: crimson;
+}
+.left_top{
+width: 45%;
+margin-left: 5%;
+float: left;
+
+}
+.left_top button{
+    height:40px;
+    width: 40%;
+    background-color: orange;
+    color: black;
+    align-self: center;
+    font-size: 15px;
+    font-family: 'Comfortaa', cursive;
+}
+.right_top{
+    width: 45%;
+    margin-right: 5%;
+    float: left;
+}
+
+.right_top img{
+height: 100%;
+width: 100%;
+}
