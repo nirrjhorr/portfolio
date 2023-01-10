@@ -11,6 +11,8 @@ margin-left: 5%;
 float: left;
 
 }
+/* button design */
+
 .left_top button{
     height:40px;
     width: 40%;
@@ -25,7 +27,7 @@ float: left;
     margin-right: 5%;
     float: left;
 }
-
+/* image customization */
 .right_top img{
 height: 100%;
 width: 100%;
