@@ -32,16 +32,16 @@ section {
 }
 
 .banner {
-    background-image: url(banner.png);
+    background-image: url(resource/banner.png);
     background-repeat: no-repeat;
 }
 .dream-bg{
-    background-image: url(dream-bg.png);
+    background-image: url(resource/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
 .experience-bg{
-    background-image: url(exp-bg.png);
+    background-image: url(resource/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
